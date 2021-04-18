@@ -1,3 +1,6 @@
+# Hello
+This project is not currently finished but is functional!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
