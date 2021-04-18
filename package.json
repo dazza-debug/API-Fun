@@ -1,6 +1,6 @@
 {
   "name": "api-fun",
-  "homepage":  "http://dazza-debug.github.io/API-Fun",
+  "homepage": "http://dazza-debug.github.io/API-Fun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
